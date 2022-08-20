@@ -1,4 +1,4 @@
-## Flutter Inspiration App UI Design - Day 1
+## Flutter Inspiration App UI Design login  - Day 2
 
 ## Development Setup
 Clone the repository and run the following commands:
